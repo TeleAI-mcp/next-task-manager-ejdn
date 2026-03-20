@@ -1,2 +1,3 @@
-# next-task-manager-ejdn
-Automated issue comment bot repository
+# Next Task Manager Ejdn
+
+Automated issue comment bot repository.
